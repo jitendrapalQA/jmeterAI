@@ -1,0 +1,47 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE / editor
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.metadata/
+.history/
+
+# Java build / runtime
+target/
+build/
+*.class
+*.jar
+*.war
+*.ear
+logs/
+*.log
+jmeter.log
+
+# Maven / Gradle
+/.mvn/
+.mvn/
+.gradle/
+/.gradle/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Node
+node_modules/
+
+# Keystores / secrets
+*.jks
+*.keystore
+
+# Misc
+*.pid
+*.seed
