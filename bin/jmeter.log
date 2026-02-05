@@ -1,0 +1,81 @@
+2026-02-06 01:50:50,135 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2026-02-06 01:50:50,216 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2026-02-06 01:50:50,286 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2026-02-06 01:50:50,337 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2026-02-06 01:50:50,337 INFO o.a.j.JMeter: Version 5.6.3
+2026-02-06 01:50:50,337 INFO o.a.j.JMeter: java.version=11.0.28
+2026-02-06 01:50:50,337 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2026-02-06 01:50:50,337 INFO o.a.j.JMeter: os.name=Windows 10
+2026-02-06 01:50:50,337 INFO o.a.j.JMeter: os.arch=amd64
+2026-02-06 01:50:50,337 INFO o.a.j.JMeter: os.version=10.0
+2026-02-06 01:50:50,337 INFO o.a.j.JMeter: file.encoding=Cp1252
+2026-02-06 01:50:50,337 INFO o.a.j.JMeter: java.awt.headless=null
+2026-02-06 01:50:50,337 INFO o.a.j.JMeter: Max memory     =1073741824
+2026-02-06 01:50:50,337 INFO o.a.j.JMeter: Available Processors =4
+2026-02-06 01:50:50,377 INFO o.a.j.JMeter: Default Locale=English (EN)
+2026-02-06 01:50:50,377 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2026-02-06 01:50:50,377 INFO o.a.j.JMeter: JMeterHome=C:\apache-jmeter-5.6.3
+2026-02-06 01:50:50,377 INFO o.a.j.JMeter: user.dir  =C:\apache-jmeter-5.6.3\bin
+2026-02-06 01:50:50,377 INFO o.a.j.JMeter: PWD       =C:\apache-jmeter-5.6.3\bin
+2026-02-06 01:50:50,408 INFO o.a.j.JMeter: IP: 192.168.1.5 Name: DESKTOP-D9SKOK0 FullName: DESKTOP-D9SKOK0
+2026-02-06 01:50:50,534 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2026-02-06 01:50:51,073 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: laf:com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel
+2026-02-06 01:50:53,906 INFO o.a.j.r.ClassFinder: Will scan jar C:\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.11.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-02-06 01:50:54,260 INFO o.a.j.r.ClassFinder: Will scan jar C:\apache-jmeter-5.6.3\lib\ext\jmeter-agent-1.0.10-jar-with-dependencies.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-02-06 01:51:12,196 INFO o.a.j.r.ClassFinder: Will scan jar C:\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.11.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-02-06 01:51:12,209 INFO o.a.j.r.ClassFinder: Will scan jar C:\apache-jmeter-5.6.3\lib\ext\jmeter-agent-1.0.10-jar-with-dependencies.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-02-06 01:51:13,657 INFO o.q.j.a.u.OpenAiUsage: OpenAI client initialized for usage tracking
+2026-02-06 01:51:13,657 INFO o.q.j.a.u.OpenAiUsage: OpenAI client set for usage tracking
+2026-02-06 01:51:13,657 INFO o.q.j.a.s.OpenAiService: Set OpenAI client in OpenAiUsage during initialization
+2026-02-06 01:51:13,657 INFO o.q.j.a.s.OpenAiService: Loaded system prompt from properties (length: 4091)
+2026-02-06 01:51:13,657 INFO o.q.j.a.s.OpenAiService: System prompt (first 100 chars): You are a JMeter expert assistant embedded in a JMeter plugin called 'Feather Wand - JMeter Agent'. 
+2026-02-06 01:51:13,657 INFO o.q.j.a.g.AiMenuItem: Initialized JSR223 context menu with openai service
+2026-02-06 01:51:13,657 INFO o.q.j.a.g.AiMenuItem: Added tree selection listener for JSR223 context menu
+2026-02-06 01:51:15,185 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_10-a3a62f2b49bba7889c9816bceb2bcb1b-gui
+2026-02-06 01:51:15,662 INFO o.q.j.a.g.JSR223ContextMenu: JSR223 context menus initialized
+2026-02-06 01:51:19,958 INFO o.j.r.PluginManager: Plugins Status: [feather-wand-jmeter-ai-agent=1.0.10, jpgc-plugins-manager=1.11, jmeter-core=5.6.3, jmeter-ftp=5.6.3, jmeter-http=5.6.3, jmeter-jdbc=5.6.3, jmeter-jms=5.6.3, jmeter-junit=5.6.3, jmeter-java=5.6.3, jmeter-ldap=5.6.3, jmeter-mail=5.6.3, jmeter-mongodb=5.6.3, jmeter-native=5.6.3, jmeter-tcp=5.6.3, jmeter-components=5.6.3]
+2026-02-06 01:51:45,460 INFO o.q.j.a.g.AiMenuItem: Calling AI panel
+2026-02-06 01:51:45,507 INFO o.q.j.a.s.ClaudeService: Loaded system prompt from properties (length: 4091)
+2026-02-06 01:51:45,507 INFO o.q.j.a.s.ClaudeService: System prompt (first 100 chars): You are a JMeter expert assistant embedded in a JMeter plugin called 'Feather Wand - JMeter Agent'. 
+2026-02-06 01:51:45,507 INFO o.q.j.a.u.OpenAiUsage: OpenAI client set for usage tracking
+2026-02-06 01:51:45,507 INFO o.q.j.a.s.OpenAiService: Set OpenAI client in OpenAiUsage during initialization
+2026-02-06 01:51:45,507 INFO o.q.j.a.s.OpenAiService: Loaded system prompt from properties (length: 4091)
+2026-02-06 01:51:45,507 INFO o.q.j.a.s.OpenAiService: System prompt (first 100 chars): You are a JMeter expert assistant embedded in a JMeter plugin called 'Feather Wand - JMeter Agent'. 
+2026-02-06 01:51:45,560 INFO o.q.j.a.g.TreeNavigationButtons: TreeNavigationButtons initialized
+2026-02-06 01:51:45,560 INFO o.q.j.a.g.TreeNavigationButtons: Setting up button action listener
+2026-02-06 01:51:45,560 INFO o.q.j.a.g.TreeNavigationButtons: Checking up button state for node: Test Plan (Test Plan)
+2026-02-06 01:51:45,560 INFO o.q.j.a.g.TreeNavigationButtons: Disabling up button - Test Plan node detected
+2026-02-06 01:51:45,560 INFO o.q.j.a.g.TreeNavigationButtons: Setting down button action listener
+2026-02-06 01:51:45,576 INFO o.q.j.a.u.Models: Fetching available models from Anthropic API
+2026-02-06 01:51:45,592 INFO o.q.j.a.u.VersionUtils: Found version in pom.properties: 1.0.10
+2026-02-06 01:51:45,607 INFO o.q.j.a.g.AiChatPanel: Displaying welcome message
+2026-02-06 01:51:45,607 INFO o.q.j.a.g.MessageProcessor: Processing markdown message
+2026-02-06 01:51:45,623 INFO o.q.j.a.g.AiMenuItem: Created new AI Chat Panel
+2026-02-06 01:51:45,639 INFO o.q.j.a.g.AiMenuItem: AI Chat Panel displayed
+2026-02-06 01:51:47,975 ERROR o.q.j.a.u.Models: Error fetching models from Anthropic API: 401: AnthropicError{additionalProperties={type=error, error={type=authentication_error, message=invalid x-api-key}, request_id=req_011CXqYXujkkc1vbVJau1yto}}
+com.anthropic.errors.UnauthorizedException: 401: AnthropicError{additionalProperties={type=error, error={type=authentication_error, message=invalid x-api-key}, request_id=req_011CXqYXujkkc1vbVJau1yto}}
+	at com.anthropic.core.handlers.ErrorHandler$withErrorHandler$1.handle(ErrorHandler.kt:53) ~[jmeter-agent-1.0.10-jar-with-dependencies.jar:?]
+	at com.anthropic.services.blocking.ModelServiceImpl.list(ModelServiceImpl.kt:69) ~[jmeter-agent-1.0.10-jar-with-dependencies.jar:?]
+	at com.anthropic.services.blocking.ModelService.list$default(ModelService.kt:33) ~[jmeter-agent-1.0.10-jar-with-dependencies.jar:?]
+	at com.anthropic.services.blocking.ModelService.list(ModelService.kt) ~[jmeter-agent-1.0.10-jar-with-dependencies.jar:?]
+	at org.qainsights.jmeter.ai.utils.Models.getAnthropicModels(Models.java:65) [jmeter-agent-1.0.10-jar-with-dependencies.jar:?]
+	at org.qainsights.jmeter.ai.gui.AiChatPanel$5.doInBackground(AiChatPanel.java:411) [jmeter-agent-1.0.10-jar-with-dependencies.jar:?]
+	at org.qainsights.jmeter.ai.gui.AiChatPanel$5.doInBackground(AiChatPanel.java:403) [jmeter-agent-1.0.10-jar-with-dependencies.jar:?]
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:304) [?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:343) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:834) [?:?]
+2026-02-06 01:51:47,977 INFO o.q.j.a.u.Models: Fetching available models from OpenAI API
+2026-02-06 01:51:51,388 INFO o.q.j.a.u.Models: Successfully retrieved 97 models from OpenAI API
+2026-02-06 01:51:51,388 INFO o.q.j.a.g.AiChatPanel: Added OpenAI models to selector
+2026-02-06 01:51:51,426 INFO o.q.j.a.g.AiChatPanel: Default model ID: claude-3-sonnet-20240229
+2026-02-06 01:51:51,426 INFO o.q.j.a.g.AiChatPanel: Model selected from dropdown: openai:gpt-3.5-turbo
+2026-02-06 01:51:51,426 INFO o.q.j.a.s.ClaudeService: Model set to: openai:gpt-3.5-turbo
+2026-02-06 01:51:51,426 INFO o.q.j.a.s.OpenAiService: Model set to: openai:gpt-3.5-turbo
+2026-02-06 01:51:51,428 INFO o.q.j.a.g.AiChatPanel: Model selected from dropdown: openai:gpt-3.5-turbo
+2026-02-06 01:51:51,428 INFO o.q.j.a.s.ClaudeService: Model set to: openai:gpt-3.5-turbo
+2026-02-06 01:51:51,428 INFO o.q.j.a.s.OpenAiService: Model set to: openai:gpt-3.5-turbo
+2026-02-06 01:51:51,428 INFO o.q.j.a.s.ClaudeService: Model set to: openai:gpt-3.5-turbo
+2026-02-06 01:51:51,428 INFO o.q.j.a.g.AiChatPanel: Default model not found, selected first available: openai:gpt-3.5-turbo
